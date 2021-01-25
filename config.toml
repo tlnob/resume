@@ -1,0 +1,41 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Resume | Thaís Nobre"
+disableKinds = ["taxonomy", "term", "page", "section", "RSS", "sitemap", "robotsTXT", "404"]
+theme = "resume"
+
+[params]
+useFontAwesome = true
+avatar = "avatar.jpg"
+
+[params.display]
+experience = true
+education = true
+languages = true
+skills = true
+skills_grouped = false
+interests = false
+contact = true
+tagline = true
+aboutMe = true
+projects = false
+papers = false
+avatar = true
+
+[params.display.footer]
+footer = true
+links = true
+credits = true
+
+[params.footer.links]
+[[params.footer.links.link]]
+prefix = "Contact me on"
+name = "Linkedin"
+url = "https://www.linkedin.com/in/thais-nobre/"
+icon = "fab fa-linkedin"
+
+[[params.footer.links.link]]
+prefix = "Check out my"
+name = "Github"
+url = "https://github.com/tlnob"
+icon = "fas fa-globe"

@@ -1,0 +1,20 @@
+skills:
+  - "React"
+  - "Javascript / Typescript"
+  - "Webpack"
+  - "Python"
+  - "Golang"
+  - "Git - Docker - Kubernetes - GCP"
+
+languages:
+  - name: "Portuguese"
+    level: "Native"
+
+  - name: "English"
+    level: "Professional"
+
+about:
+  - name: "Thaís Nobre"
+    tagline: "Software Engineer"
+    email: "thais.nobre7@gmail.com"
+    details: "Currently working as a software developer, has strong analytical skills, digital marketing knowledge and management background."
